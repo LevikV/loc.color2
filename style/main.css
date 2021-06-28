@@ -136,8 +136,14 @@
 	border-radius: 25px 0px 0px 25px;
 	margin: 0px 0px 0px 0px;
 }
+.ftab {
+	padding: 10px 50px !important;
+}
 .ltab{
 	border-radius: 0px 25px 25px 0px;
+}
+.ctab {
+	border-radius: 0px;
 }
 .tc-item{
 	width: 297px;
