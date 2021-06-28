@@ -137,6 +137,7 @@
 	margin: 0px 0px 0px 0px;
 	padding: 10px 50px !important;
 }
+/*Отображение в мобильной версии табов*/
 @media (max-width: 640px) {
 	.ftab {
 		padding: 10px 11px !important;
