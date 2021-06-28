@@ -135,9 +135,17 @@
 .ftab{
 	border-radius: 25px 0px 0px 25px;
 	margin: 0px 0px 0px 0px;
-}
-.ftab {
 	padding: 10px 50px !important;
+}
+@media (max-width: 640px) {
+	.ftab {
+		padding: 10px 11px !important;
+	}
+}
+@media (min-width: 641px) AND (max-width: 962px) {
+	.ftab {
+		padding: 10px 32px !important;
+	}
 }
 .ltab{
 	border-radius: 0px 25px 25px 0px;
